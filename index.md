@@ -1,12 +1,12 @@
 # Capstone Team 07 - Riverside Research
 
-*   [Bryce Conley](conleyb2@udayton.edu)
-*   [Bobby Wilkens](wilkensb1@udayton.edu)
-*   [Andrew Boerger](boergera2@udayton.edu)
-
 ## The Project
 
 > Insert deployed project here 
+
+#### Project Overview
+
+This Capstone project focuses on developing data visualization and analytical tools to assist users in deriving knowledge from metadata. Riverside Research’s Literature and Management Analysis (LiMA) application assists users with capturing metadata from technical documents (e.g., technical papers, conference papers, journal articles, etc.) that they then use as part of their research into emerging technologies and global trends. Users desire tools that enable them to analyze the metadata they have collected to assist them with their research. Examples include histograms to visualize temporal trends in publishing, pie charts to visualize the percentage of publications on a category or subcategory, and/or knowledge graphs to show connections between authors, organizations, and topics.
 
 ## The Team
 
@@ -28,7 +28,9 @@ Major: CIS  |  Minor: Music Technology
 
 ![Andrew](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/andrew.png)
 
-## Sponsor
+## 
+
+### Sponsor
 
 **Sphere of Operation**: [Riverside Research](https://www.riversideresearch.org/)
 
@@ -37,6 +39,6 @@ Major: CIS  |  Minor: Music Technology
 
 ![Riverside](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/riverside.png)
 
-## Design Overview
+### Design Overview
 
 ![Design](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/designOverview.png)
