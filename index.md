@@ -6,3 +6,4 @@
 
 ## Design Overview
 
+![Design](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/designOverview.png)
