@@ -28,7 +28,6 @@ Major: CIS  |  Minor: Music Technology
 
 ![Andrew](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/andrew.png)
 
-## 
 
 ### Sponsor
 
