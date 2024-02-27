@@ -36,7 +36,7 @@ Major: CIS  |  Minor: Music Technology
 **Specific contact**: *Todd Irlbeck*, Software Applications Team Lead- Intelligence and Defense Solutions
 
 
-![Riverside](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/riverside.png)
+![Riverside](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/riversideSmall.png)
 
 ### Design Overview
 
