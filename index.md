@@ -27,6 +27,7 @@ Major: CIS  |  Minor: Cyber Security Mgmt
 Major: CIS  |  Minor: Music Technology
 
 ![Andrew](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/andrew.png)
+<img src="./andrew.png" alt="andrew">
 
 
 ### Sponsor
@@ -34,7 +35,6 @@ Major: CIS  |  Minor: Music Technology
 **Sphere of Operation**: [Riverside Research](https://www.riversideresearch.org/)
 
 **Specific contact**: *Todd Irlbeck*, Software Applications Team Lead- Intelligence and Defense Solutions
-
 
 ![Riverside](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/riversideSmall.png)
 
