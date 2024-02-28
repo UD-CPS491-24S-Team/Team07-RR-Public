@@ -14,19 +14,19 @@ This Capstone project focuses on developing data visualization and analytical to
 
 Major: CIS  |  Minor: Cyber Security Mgmt
 
-![Bryce](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/bryce.png)
+<img src="./images/bryce.png" alt="bryce">
 
 **Bobby Wilkens**
 
 Major: CIS  |  Minor: Cyber Security Mgmt
 
-![Bobby](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/bobby.png)
+<img src="./images/bobby.png" alt="bobby">
 
 **Andrew Boerger**
 
 Major: CIS  |  Minor: Music Technology
 
-![Andrew](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/andrew.png)
+<img src="./images/andrew.png" alt="lasagna">
 
 
 ### Sponsor
@@ -35,8 +35,8 @@ Major: CIS  |  Minor: Music Technology
 
 **Specific contact**: *Todd Irlbeck*, Software Applications Team Lead- Intelligence and Defense Solutions
 
-![Riverside](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/riversideSmall.png)
+<img src="./images/riverside.png" alt="riverside">
 
 ### Design Overview
 
-![Design](https://github.com/UD-CPS491-24S-Team/Team07-RR-Public/blob/main/designOverview.png)
+<img src="./images/designOverview.png" alt="designOverview">
