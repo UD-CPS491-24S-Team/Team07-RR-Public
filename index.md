@@ -26,7 +26,7 @@ Major: CIS  |  Minor: Cyber Security Mgmt
 
 Major: CIS  |  Minor: Music Technology
 
-<img src="./images/andrew.png" alt="lasagna">
+<img src="./images/andrew.png" alt="andrew">
 
 
 ### Sponsor
