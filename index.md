@@ -107,25 +107,25 @@ Month 2 of the project was where the focus turned to functionlaity of the projec
 
 #### Basic Visualization Features
 
-<video width="500px" height="500px" controls="controls">
+<video width="500px" height="350px" controls="controls">
         <source src="./videos/Demo 1.mkv" type="video/mp4" />
 </video>
 
 #### Advanced Featuers
 
-<video width="500px" height="500px" controls="controls">
+<video width="500px" height="350px" controls="controls">
         <source src="./videos/Demo 2.mkv" type="video/mp4" />
 </video>
 
 #### Add Project Form
 
-<video width="500px" height="500px" controls="controls">
+<video width="500px" height="350px" controls="controls">
         <source src="./videos/Demo 3.mkv" type="video/mp4" />
 </video>
 
 
 #### CSV  Reader
 
-<video width="500px" height="500px" controls="controls">
+<video width="500px" height="350px" controls="controls">
         <source src="./videos/Demo 4.mp4" type="video/mp4" />
 </video>
