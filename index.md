@@ -65,23 +65,23 @@ The first month had a focus of getting the team familiar with everything that we
 
 3. Setting up base infrastructure for the project:
 
-    - Set up All three layers of the project
+- Set up All three layers of the project
 
-        - Vite used to create boilerplate for the React/TypeScript frontend
+    - Vite used to create boilerplate for the React/TypeScript frontend
 
-        - A very basic Flask API implementation was creted
+    - A very basic Flask API implementation was creted
 
-        - Shared account created for Neo4j to bypass the need for a paid plan that would be required to share database access between multiple accounts.
+    - Shared account created for Neo4j to bypass the need for a paid plan that would be required to share database access between multiple accounts.
 
-    - Connect all three layers:
+- Connect all three layers:
 
-        - Frontend makes calls to the routes created to the Flask API
+    - Frontend makes calls to the routes created to the Flask API
 
-        - Neo4j is connected to the Flask API with the GraphDatabase Driver from Neo4j
+    - Neo4j is connected to the Flask API with the GraphDatabase Driver from Neo4j
 
-    - Create our first Histogram to familiarize ourselves with how to go about using Chart.js
+- Create our first Histogram to familiarize ourselves with how to go about using Chart.js
 
-    ![Month_1_Interface](./images/Month1Interface.png)
+![Month_1_Interface](./images/Month1Interface.png)
 
 ## Month 2: Functionality
 
