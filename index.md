@@ -104,11 +104,21 @@ Month 2 of the project was where the focus turned to functionlaity of the projec
 6. Anility to filter papers based on what is selected from charts
 
 ### State of the project
+
 #### Basic Visualization Features
+
 [Basic_Visualization](./videos/Demo%201.mkv)
+
 #### Advanced Featuers
+
 [Advanced_Features](./videos/Demo%202.mkv)
+
 #### Add Project Form
-[Add_Project_Form](./videos/Demo%203.mkv)
+
+<video width="500px" height="500px" controls="controls">
+        <source src="./videos/Demo 3.mkv" type="video/mp4" />
+
 #### CSV  Reader
-[CSV_Reader](./videos/Demo%204.mp4)
+
+<video width="500px" height="500px" controls="controls">
+        <source src="./videos/Demo 4.mkv" type="video/mp4" />
