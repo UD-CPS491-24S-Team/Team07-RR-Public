@@ -45,7 +45,7 @@ Major: CIS  |  Minor: Music Technology
 
 The first month had a focus of getting the team familiar with everything that we were working with for the project. This included three primary tasks:
 
-1) Researching the technologies that are being used in the project:
+1. Researching the technologies that are being used in the project:
 
     - [React/TypeScript](https://docs.google.com/document/d/1QRyA2zaTRjBmIsNzNtPSbNQ13_3oczqZeWKlv2cT9ms/edit)
 
@@ -55,7 +55,7 @@ The first month had a focus of getting the team familiar with everything that we
 
     - [Data Visualization](https://docs.google.com/document/d/1WznjjzQvBE7lzuG4anxtJWIw8QdM1KXSFs72ObEOHJw/edit)
 
-2) Familiarize ourselves with the sample data in use, which includes:
+2. Familiarize ourselves with the sample data in use, which includes:
 
     - Types of papers (Abstract, Article, Book, Conference, Conference Proceedings, Dissertation, Journal Article, Magazine Article, Master Thesis, Media, Other, Other Publication, Patent, PowerPoint, Thesis, Website )
 
@@ -63,7 +63,7 @@ The first month had a focus of getting the team familiar with everything that we
 
     - Determining what can be derived from this information (ex. Does a spike in yearly publications on a topic indicate some trend?)
 
-3) Setting up base infrastructure for the project:
+3. Setting up base infrastructure for the project:
 
     - Set up All three layers of the project
 
@@ -80,28 +80,28 @@ The first month had a focus of getting the team familiar with everything that we
         - Neo4j is connected to the Flask API with the GraphDatabase Driver from Neo4j
 
     - Create our first Histogram to familiarize ourselves with how to go about using Chart.js
-    
+
     ![Month_1_Interface](./images/Month1Interface.png)
 
 ## Month 2: Functionality
 
 Month 2 of the project was where the focus turned to functionlaity of the project. This included:
 
-1) A selector for choosing the topic to be displayed within the charts
+1. A selector for choosing the topic to be displayed within the charts
 
-2) Additional charts:
+2. Additional charts:
 
     - Papers per year line chart
 
     - Distribution of topics for an author histogram
 
-3) Author search bar with suggestions
+3. Author search bar with suggestions
 
-4) Ability to save charts
+4. Ability to save charts
 
-5) A table displaying information (title, publication date, organizations, research areas, authors) for all of the papers in the selected topics.
+5. A table displaying information (title, publication date, organizations, research areas, authors) for all of the papers in the selected topics.
 
-6) Anility to filter papers based on what is selected from charts
+6. Anility to filter papers based on what is selected from charts
 
 ### State of the project
 #### Basic Visualization Features
