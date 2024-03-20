@@ -1,9 +1,5 @@
 # Capstone Team 07 - Riverside Research
 
-*   [Bryce Conley](conleyb2@udayton.edu)
-*   [Bobby Wilkens](wilkensb1@udayton.edu)
-*   [Andrew Boerger](boergera2@udayton.edu)
-
 ## The Project
 
 This Capstone project is a standalone data visualization and analytical tool that utilizes the same technologies as Riverside Research's LiMA application, including React/Typescript, Flask, and Neo4j. The primary objective is to create a seamless integration pathway by ensuring compatibility with LiMA's existing infrastructure. Our tool empowers users to extract insights from metadata sourced from technical documents like papers and articles. With features such as histograms for temporal trend analysis, pie charts for category distribution visualization, and knowledge graphs revealing connections between authors, organizations, and topics, our project serves as a vital stepping stone toward enhancing LiMA's functionality. Through this endeavor, we aim to facilitate a smooth transition by ensuring that the developed code can be seamlessly integrated into the LiMA platform, thereby optimizing research capabilities for users.
