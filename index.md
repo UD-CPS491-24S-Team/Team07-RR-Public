@@ -103,24 +103,53 @@ Month 2 of the project was where the focus turned to functionlaity of the projec
 
 6. Anility to filter papers based on what is selected from charts
 
+7. User empathy session
+    - Met with daily users of LiMA to get feedback on:
+        - Page layout
+        - Daily workflow
+        - Features that they would like/features that they didn't like
+
+## Month 3: Finalization
+
+Our final month was spent ipleenting most of the user wish list that we got from the user empathy session
+
+1. Adding the concept of projects
+    - End users use project to segment the papers into more focused collections
+
+2. Ability to filter based on projects
+
+3. New charts
+    - Stacked chart to show organizations on the author search chart
+    - Pie chart for publication types
+
+4. Chart customization
+    - Toggle for author search chart to switch on stacked chart
+    - Button to toggle between author pie chart and publication pie chart
+
+5. Page laytout redesign
+    - Rudeced massive aounts of whitespace
+    - Fixed chart scaling issues
+    - Made the page more readable
+    - Changed labels to make more clear to users what is being displayed to them
+
 ### State of the project
 
-#### Basic Visualization Features
+#### Project Selection
 
 <video width="500px" height="350px" controls="controls">
-        <source src="./videos/Demo 1.mkv" type="video/mp4" />
+        <source src="./videos/Project select.mkv" type="video/mp4" />
 </video>
 
-#### Advanced Featuers
+#### Reaserch Selection and Filtering
 
 <video width="500px" height="350px" controls="controls">
-        <source src="./videos/Demo 2.mkv" type="video/mp4" />
+        <source src="./videos/Topic select and filtering.mkv" type="video/mp4" />
 </video>
 
-#### Add Project Form
+#### Searching for Authors and Saving Chart
 
 <video width="500px" height="350px" controls="controls">
-        <source src="./videos/Demo 3.mkv" type="video/mp4" />
+        <source src="./videos/Search and save.mkv" type="video/mp4" />
 </video>
 
 
